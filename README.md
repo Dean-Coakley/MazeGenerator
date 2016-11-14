@@ -1,5 +1,5 @@
 # MazeGenerator
-A simple maze generator using Union-Find algorithm.
+A simple maze generator using an implemetion of Kruskal's algoritm and a Union-Find data structure.
 
 ## How to run
 * Run MazeTester.java
