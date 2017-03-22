@@ -1,7 +1,7 @@
 # MazeGenerator
 A simple maze generator using an implemetion of Kruskal's algoritm and a Union-Find data structure.
 
-**This was an entry to the Redgate coding challenge. It received an honourable mention from the Redgate engineering team.** [Redgate Blog] (http://www.red-gate.com/blog/building/biggest-challenges-coding-can-also-entertaining) 
+**This was an entry to the Redgate coding challenge. It received an honourable mention from the Redgate engineering team.** [Redgate Blog](http://www.red-gate.com/blog/building/biggest-challenges-coding-can-also-entertaining) 
 
 *"Dean’s implementation of Kruskal’s algorithm in terms of merge-find sets was nicely explained and a good implementation. Dean’s solution also has nice rendering – he was the only person to have customisable tiles."*
 
